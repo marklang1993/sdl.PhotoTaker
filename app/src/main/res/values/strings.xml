@@ -3,4 +3,5 @@
     <string name="view_photo">Photo</string>
     <string name="button_photo">Photo</string>
     <string name="toast_no_activities">No activities for taking photoes</string>
+    <string name="cannot_create_file">Cannot create image file</string>
 </resources>
